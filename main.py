@@ -1,3 +1,4 @@
+#Execution without UI(in terminal) run: "python main.py", With UI: "python main.py --web"
 import sys
 from agent import ITHelpdeskAgent
 from ui import create_gradio_interface
